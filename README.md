@@ -1,1 +1,2 @@
-# Text-Summarizer-BERT-
+# Text-Summarizer-BERT
+MODEL : BERT
